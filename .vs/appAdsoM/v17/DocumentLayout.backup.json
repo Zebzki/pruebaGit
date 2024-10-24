@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\datos\\clconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\vista\\maestrausuario.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\vista\\maestrausuario.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|c:\\users\\dell\\source\\repos\\appadsom\\appadsom\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\logica\\clusuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\logica\\clusuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\datos\\clusuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\datos\\clusuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\vista\\registrarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\vista\\registrarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\vista\\listarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\vista\\listarproductos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\vista\\ingreso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\vista\\ingreso.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\vista\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\vista\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\entidades\\clusuarioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\entidades\\clusuarioe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\index.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\vista\\maestrausuario.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\vista\\maestrausuario.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\vista\\ingreso.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\vista\\ingreso.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|C:\\Users\\DELL\\source\\repos\\appAdsoM\\appadsom\\vista\\css\\estilologin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{76ED985A-541F-4AE6-8C34-FB5979C4F86C}|appAdsoM\\appAdsoM.csproj|solutionrelative:appadsom\\vista\\css\\estilologin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClUsuarioL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\logica\\ClUsuarioL.cs",
+              "RelativeDocumentMoniker": "appAdsoM\\logica\\ClUsuarioL.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\logica\\ClUsuarioL.cs",
+              "RelativeToolTip": "appAdsoM\\logica\\ClUsuarioL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T13:19:41.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClUsuarioD.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\datos\\ClUsuarioD.cs",
+              "RelativeDocumentMoniker": "appAdsoM\\datos\\ClUsuarioD.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\datos\\ClUsuarioD.cs",
+              "RelativeToolTip": "appAdsoM\\datos\\ClUsuarioD.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwF4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:56:33.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\index.aspx.cs",
+              "RelativeDocumentMoniker": "appAdsoM\\index.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\index.aspx.cs",
+              "RelativeToolTip": "appAdsoM\\index.aspx.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:37:34.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "maestraUsuario.Master",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\maestraUsuario.Master",
+              "RelativeDocumentMoniker": "appAdsoM\\vista\\maestraUsuario.Master",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\maestraUsuario.Master",
+              "RelativeToolTip": "appAdsoM\\vista\\maestraUsuario.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T14:58:28.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CLConexion.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\datos\\CLConexion.cs",
+              "RelativeDocumentMoniker": "appAdsoM\\datos\\CLConexion.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\datos\\CLConexion.cs",
+              "RelativeToolTip": "appAdsoM\\datos\\CLConexion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T15:47:19.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "registrarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\registrarProductos.aspx",
+              "RelativeDocumentMoniker": "appAdsoM\\vista\\registrarProductos.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\registrarProductos.aspx",
+              "RelativeToolTip": "appAdsoM\\vista\\registrarProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T15:27:04.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "listarProductos.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\listarProductos.aspx",
+              "RelativeDocumentMoniker": "appAdsoM\\vista\\listarProductos.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\listarProductos.aspx",
+              "RelativeToolTip": "appAdsoM\\vista\\listarProductos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T15:29:48.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ingreso.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\ingreso.aspx",
+              "RelativeDocumentMoniker": "appAdsoM\\vista\\ingreso.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\ingreso.aspx",
+              "RelativeToolTip": "appAdsoM\\vista\\ingreso.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-02T15:40:24.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\dashboard.aspx",
+              "RelativeDocumentMoniker": "appAdsoM\\vista\\dashboard.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\dashboard.aspx",
+              "RelativeToolTip": "appAdsoM\\vista\\dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-03T15:42:45.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\Global.asax.cs",
+              "RelativeDocumentMoniker": "appAdsoM\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\Global.asax.cs",
+              "RelativeToolTip": "appAdsoM\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:44:39.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.aspx",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\index.aspx",
+              "RelativeDocumentMoniker": "appAdsoM\\index.aspx",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\index.aspx",
+              "RelativeToolTip": "appAdsoM\\index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-26T12:56:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClUsuarioE.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\entidades\\ClUsuarioE.cs",
+              "RelativeDocumentMoniker": "appAdsoM\\entidades\\ClUsuarioE.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\entidades\\ClUsuarioE.cs",
+              "RelativeToolTip": "appAdsoM\\entidades\\ClUsuarioE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:53:56.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\index.aspx.designer.cs",
+              "RelativeDocumentMoniker": "appAdsoM\\index.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\index.aspx.designer.cs",
+              "RelativeToolTip": "appAdsoM\\index.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:08:44.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "maestraUsuario.Master.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\maestraUsuario.Master.cs",
+              "RelativeDocumentMoniker": "appAdsoM\\vista\\maestraUsuario.Master.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\maestraUsuario.Master.cs",
+              "RelativeToolTip": "appAdsoM\\vista\\maestraUsuario.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:51:34.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ingreso.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\ingreso.aspx.cs",
+              "RelativeDocumentMoniker": "appAdsoM\\vista\\ingreso.aspx.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\ingreso.aspx.cs",
+              "RelativeToolTip": "appAdsoM\\vista\\ingreso.aspx.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T11:58:12.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "estiloLogin.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\css\\estiloLogin.css",
+              "RelativeDocumentMoniker": "appAdsoM\\vista\\css\\estiloLogin.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\appAdsoM\\appAdsoM\\vista\\css\\estiloLogin.css",
+              "RelativeToolTip": "appAdsoM\\vista\\css\\estiloLogin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-02T12:27:26.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
